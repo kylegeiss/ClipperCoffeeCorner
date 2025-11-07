@@ -6,7 +6,7 @@ using ClipperCoffeeCorner;
 // Create single instance of sample data from first line of dataset for model input
 MLModel1.ModelInput sampleData = new MLModel1.ModelInput()
 {
-    Col0 = @"Crust is not good.",
+    Col0 = @"Sandwich, Tea, Coffee, Fries",
 };
 
 
@@ -14,7 +14,7 @@ MLModel1.ModelInput sampleData = new MLModel1.ModelInput()
 Console.WriteLine("Using model to make single prediction -- Comparing actual Col1 with predicted Col1 from sample data...\n\n");
 
 
-Console.WriteLine($"Col0: {@"Crust is not good."}");
+Console.WriteLine($"Col0: {@"Sandwich, Tea, Coffee, Cake"}");
 Console.WriteLine($"Col1: {0F}");
 
 

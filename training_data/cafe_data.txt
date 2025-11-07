@@ -1,0 +1,99 @@
+Tea Tea Tea Coffee	7.92
+Coffee	2.28
+Coffee	2.02
+Sandwich Soup Salad Soup Sandwich	13.44
+Salad Salad Coffee Soup Soup Sandwich	19.2
+Soup	3.03
+Sandwich Sandwich	8.64
+Cake Coffee Cake	11.88
+Cake Sandwich	7.29
+Soup	3.27
+Coffee Salad Coffee Soup Sandwich Cake	20.34
+Coffee Cake Coffee Cake	12.32
+Cake Coffee	5.81
+Salad Sandwich Sandwich Sandwich	15.96
+Salad Sandwich Salad Tea Coffee Sandwich	15.68
+Sandwich Coffee	6.54
+Salad Tea	3.96
+Tea Sandwich Sandwich	11.1
+Coffee Salad Coffee Coffee	7.92
+Cake Sandwich Soup Cake Cake Coffee	24.24
+Sandwich Sandwich Soup Coffee Cake	20.88
+Sandwich Cake Soup Soup Tea Salad	19.19
+Tea	1.64
+Soup Tea Soup Tea	12.0
+Cake Coffee Cake Sandwich Soup	20.52
+Cake Salad Tea Cake	14.42
+Tea Coffee Coffee Sandwich Soup Coffee	13.65
+Tea Salad Soup Salad Coffee	11.77
+Coffee Cake Cake Sandwich	16.0
+Soup	2.94
+Sandwich Salad Soup	8.55
+Soup Cake	8.88
+Sandwich Cake Tea Cake Tea Sandwich	20.24
+Cake	4.55
+Soup Coffee Cake Salad Tea Salad	15.52
+Cake	5.25
+Salad Soup Tea Soup	10.1
+Cake Sandwich Cake Tea	18.88
+Soup Tea Soup Tea	8.5
+Soup Coffee Sandwich	10.35
+Sandwich Coffee Sandwich Coffee	13.92
+Cake Tea Tea Coffee Sandwich Tea	15.64
+Sandwich Coffee Cake Cake	18.88
+Coffee Cake	8.33
+Tea Tea Cake Sandwich Cake	18.18
+Sandwich Salad Cake Cake Tea	18.54
+Salad Sandwich Tea Tea	11.3
+Salad Sandwich	6.6
+Coffee Sandwich Soup Tea Salad	11.7
+Soup	3.24
+Soup Cake Salad Tea Coffee Tea	17.28
+Tea Coffee Cake	9.81
+Sandwich Sandwich Tea Tea Tea Cake	21.28
+Sandwich Soup Sandwich Soup Salad	13.92
+Salad Sandwich Soup Coffee Salad Coffee	16.2
+Coffee Coffee Cake Sandwich Salad Cake	22.8
+Tea Tea Sandwich Soup Sandwich	14.1
+Tea	2.22
+Soup	2.64
+Soup Coffee Soup Sandwich	13.08
+Tea Salad Sandwich Soup Sandwich Soup	18.9
+Salad Sandwich Coffee	8.32
+Tea	1.68
+Sandwich Sandwich Salad Coffee	10.08
+Cake Salad	8.19
+Soup Cake	9.52
+Salad Cake Coffee	7.38
+Coffee Cake	6.72
+Coffee Coffee Tea	5.4
+Salad Soup Tea Cake Tea	15.96
+Cake	5.6
+Coffee Sandwich Cake Salad Tea Tea	20.4
+Cake Tea Salad Salad Tea Salad	12.6
+Cake Soup	6.72
+Salad Coffee Tea Sandwich Soup Soup	14.24
+Cake Cake	10.8
+Tea Soup Tea Salad	8.19
+Tea Cake Tea Tea Soup Salad	14.24
+Cake Cake Cake Soup	20.52
+Coffee	2.08
+Salad Sandwich	5.1
+Sandwich	4.2
+Soup Sandwich Coffee	7.92
+Salad	1.94
+Cake Tea Cake Tea	14.42
+Coffee Soup Tea Tea Tea Cake	19.2
+Cake Coffee Salad Coffee Salad Sandwich	17.68
+Tea Sandwich	4.98
+Tea Tea Cake Tea	10.23
+Sandwich Sandwich	9.12
+Coffee Sandwich	6.42
+Salad Soup Soup Cake	10.66
+Cake	4.55
+Sandwich Tea Tea Sandwich Tea	15.54
+Salad Soup	6.0
+Coffee	1.84
+Cake Coffee Sandwich Sandwich	13.5
+Tea Cake Cake Soup	17.25
+Sandwich Tea Tea	7.84

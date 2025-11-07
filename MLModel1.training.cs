@@ -8,13 +8,12 @@ using System.Threading.Tasks;
 using Microsoft.ML;
 using Microsoft.ML.Data;
 using Microsoft.ML.Trainers;
-using Microsoft.ML.Trainers.FastTree;
 
 namespace ClipperCoffeeCorner
 {
     public partial class MLModel1
     {
-        public const string RetrainFilePath =  @"Y:\Development\CS410\ClipperCoffeeCorner\training_data\yelp_labelled.txt";
+        public const string RetrainFilePath =  @"Y:\Development\CS410\ClipperCoffeeCorner\training_data\cafe_data.txt";
         public const char RetrainSeparatorChar = '	';
         public const bool RetrainHasHeader =  false;
         public const bool RetrainAllowQuoting =  false;
@@ -92,7 +91,7 @@ namespace ClipperCoffeeCorner
             // Data process configuration with pipeline data transformations
             var pipeline = mlContext.Transforms.Text.FeaturizeText(inputColumnName:@"col0",outputColumnName:@"col0")      
                                     .Append(mlContext.Transforms.Concatenate(@"Features", new []{@"col0"}))      
-                                    .Append(mlContext.Regression.Trainers.FastForest(new FastForestRegressionTrainer.Options(){NumberOfTrees=4,NumberOfLeaves=4,FeatureFraction=1F,LabelColumnName=@"col1",FeatureColumnName=@"Features"}));
+                                    .Append(mlContext.Regression.Trainers.LbfgsPoissonRegression(new LbfgsPoissonRegressionTrainer.Options(){L1Regularization=0.26705116F,L2Regularization=0.9648798F,LabelColumnName=@"col1",FeatureColumnName=@"Features"}));
 
             return pipeline;
         }
